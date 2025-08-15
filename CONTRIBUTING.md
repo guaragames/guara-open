@@ -19,7 +19,7 @@ Seja sempre respeitoso e colaborativo. Siga o [Código de Conduta](CODE_OF_CONDU
 
 ## Issues
 
-- Use as [Issues do GitHub](https://github.com/guaragames/guara/issues) para relatar bugs ou sugerir melhorias
+- Use as [Issues do GitHub](https://github.com/guaragames/guara-open/issues) para relatar bugs ou sugerir melhorias
 - Verifique se sua issue já existe antes de abrir uma nova
 
 ## Diretrizes de desenvolvimento

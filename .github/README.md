@@ -64,7 +64,7 @@ Para instalar o Guará em seu dispositivo siga os seguintes passos:
 
 1. **Acesse o Repositório do Guará em seu celular ou tablet**
 
-   - [Link para download](https://github.com/NinoEdu/Guara/releases/tag/alpha)
+   - [Link para download](https://github.com/guaragames/guara-open/releases/tag/alpha)
 
 2. **Clique em "Guara.apk" e clique em "Download"**
 
